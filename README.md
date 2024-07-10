@@ -1,4 +1,4 @@
-<img align="center" alt="logo" width="1000" src="https://github.com/ghostayush/ghostayush/blob/main/banner.png">
+<img align="center" alt="logo" width="1000" src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif">
 <h1 align="center">Hi 👋, I'm Ayush Singh Bhadauria</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
